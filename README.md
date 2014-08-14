@@ -15,6 +15,3 @@ http://pkaq.github.io/gradledoc/docs/userguide/userguide.html
 QQ群号:109752483
 EMAIL:PKAQ#MSN.COM
 
-###dshfkjasdjfhakds
-guojingwen
-testset
