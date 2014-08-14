@@ -1,4 +1,4 @@
-gradledoc
+﻿gradledoc
 =========
 
 gradle 中文文档
@@ -14,4 +14,6 @@ http://pkaq.github.io/gradledoc/docs/userguide/userguide.html
 
 QQ群号:109752483
 EMAIL:PKAQ#MSN.COM
+
+haokun
 
